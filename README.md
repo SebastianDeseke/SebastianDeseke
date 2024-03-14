@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sebie-Des
+- 👋 Hi, I’m Sebastian Deseke
 - 👀 I’m interested in learning more about coding
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
