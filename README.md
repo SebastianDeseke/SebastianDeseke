@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sebastian Deseke
 - 👀 I’m interested in learning more about coding
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C#, PHP, Go lang and Rust
+- 💞️ I’m looking forward to learning everything than encompasses our modern technology
 - 📫 How to reach me (don't)
 
 <!---
